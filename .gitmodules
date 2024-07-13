@@ -1,0 +1,12 @@
+[submodule "VC4C"]
+	path = VC4C
+	url = https://github.com/kurokocon/VC4C.git
+[submodule "VC4CLStdLib"]
+	path = VC4CLStdLib
+	url = https://github.com/kurokocon/VC4CLStdLib.git
+[submodule "VC4CL"]
+	path = VC4CL
+	url = https://github.com/doe300/VC4CL.git
+[submodule "great-opencl-examples"]
+	path = great-opencl-examples
+	url = https://github.com/kurokocon/great-opencl-examples.git
